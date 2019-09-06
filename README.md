@@ -1,4 +1,4 @@
-# Chat Web Application
+# Chat Web Application and Command Line Tool
 
 This application is ready to run.
 To deploy to Heroku, you will need an [Heroku account](https://heroku.com/) to host your application.
