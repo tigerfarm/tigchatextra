@@ -1,0 +1,4 @@
+# Ignore my specific variables:
+setserver.js
+setheroku.sh
+#

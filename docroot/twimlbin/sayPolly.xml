@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Pause length="3"/>
+    <Say voice="Polly.Joanna">Polly Joanna: First message.</Say>
+    <Pause length="1"/>
+    <Say voice="Polly.Salli">Polly Salli: Second message.<prosody pitch="-30%" rate="80%" volume="-12dB">Change pitch, rate, and volume: Third message.</prosody>
+        <prosody pitch="+30%" rate="120%" volume="+12dB">Change pitch, rate, and volume: Fourth message.</prosody>
+    </Say>
+    <Pause length="3"/>
+</Response>
